@@ -1,3 +1,3 @@
 # Neat
 
-<a rel="me" href="https://ops.gsd.foundation/@beau">Mastodon</a>
+<a rel="nofollow me" class="Link--primary" href="https://ops.gsd.foundation/@beau">https://ops.gsd.foundation/@beau</a>
